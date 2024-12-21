@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 
-- 🌱 I’m currently learning: Web Development
+- 🌱 I’m currently learning: Full Stack Development, ....., ...... .
 - 💬 Ask me about: Anything
 - 📫 How to reach me: anuprai8874@gmail.com
   
